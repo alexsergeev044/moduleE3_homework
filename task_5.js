@@ -3,7 +3,7 @@ const x_Power_n = (a, b) => {
   return result;
 };
 
-let result = x_Power_n(8, 2);
+let result = x_Power_n(8, 9);
 console.log(result);
 
 /* Напишите функцию, которая принимает два натуральных числа x и n и возвращает x в степени n.
